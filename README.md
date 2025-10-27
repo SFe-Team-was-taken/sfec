@@ -1,2 +1,2 @@
 # sfec
-SFe/SoundFont Compiler Project
+SFE/SoundFont Compiler Project
